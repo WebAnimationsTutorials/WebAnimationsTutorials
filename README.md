@@ -25,7 +25,7 @@ Want to suggest a tutorial or contribute? Feel free to open an issue or submit a
 
 ## 📫 Stay connected
 
-- YouTube: [WebAnimationsTutorials](www.youtube.com/@WebAnimationsTutorials)  
+- YouTube: [WebAnimationsTutorials](https://www.youtube.com/@WebAnimationsTutorials)  
 
 ---
 
